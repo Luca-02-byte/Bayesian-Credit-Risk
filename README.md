@@ -25,9 +25,9 @@ This project applies **Stochastic Search Variable Selection (SSVS)** — a Bayes
 
 ## Contents
 
-- [`report.pdf`](./report.pdf) — full written report with commented code
+- [`report.pdf`](./Report+Code.pdf) — full written report with commented code
 
-- [`slides.pdf`](./slides.pdf) — presentation slides for the oral exam
+- [`slides.pdf`](./Slides_BCR.pdf) — presentation slides for the oral exam
 
 ## Tools
 
