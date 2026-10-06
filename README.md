@@ -1,4 +1,4 @@
-# Bayesian Credit Risk: Variable Selection via Spike and Slab Priors
+# Bayesian Credit Risk
 
 Project for the *Applied Statistical Modelling* course, Master's in Economics and Data Analysis | Data Science curriculum, Università degli Studi di Bergamo.
 
