@@ -25,9 +25,10 @@ This project applies **Stochastic Search Variable Selection (SSVS)** — a Bayes
 
 ## Contents
 
-- [`report.pdf`](./report.pdf) — full written report (data, model specification, MCMC diagnostics, results, predictive validation)
+- [`report.pdf`](./report.pdf) — full written report with commented code
+
 - [`slides.pdf`](./slides.pdf) — presentation slides for the oral exam
 
 ## Tools
 
-R, [NIMBLE](https://r-nimble.org/) (MCMC/Gibbs sampling), `MCMCvis`, `coda`, `tidymodels` (predictive validation), LaTeX/Beamer.
+R, [NIMBLE](https://r-nimble.org/), `MCMCvis`, `coda`, `tidymodels` , LaTeX.
